@@ -2,7 +2,7 @@
 bin
 include
 lib
-pyenv.cfg
+pyvenv.cfg
 __pycache__
 .pytest_cache
 Log Monitoring Application.pdf
