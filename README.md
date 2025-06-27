@@ -72,3 +72,4 @@ pytest test_main.py
 - Export results as structured JSON or HTML
 - Develop a basic web interface for drag-n-drop allowing to use the application as a service
 - Containerize the application for incapsulation
+- ! Centralize all logs into an aggregation platform (Elasticsearch, Dynatrace, Loki) and visualize them with Grafana, Kibana, Graylog, DT. Using such tools with live vizualization you can set alerts and notification on ERRORS and WARNINGS.
