@@ -1,0 +1,57 @@
+=== Event Analysis Report ===
+[4] INCOMPLETE: Missing START or END for PID 72897
+[4] INCOMPLETE: Missing START or END for PID 72029
+[3] ERROR: [85742] START - Duration: 0:12:17
+[3] ERROR: [81258] START - Duration: 0:14:46
+[3] ERROR: [70808] START - Duration: 0:33:43
+[3] ERROR: [62401] START - Duration: 0:10:24
+[3] ERROR: [52532] START - Duration: 0:13:53
+[3] ERROR: [45135] START - Duration: 0:12:23
+[3] ERROR: [39860] START - Duration: 0:19:52
+[3] ERROR: [39547] START - Duration: 0:11:29
+[3] ERROR: [23703] START - Duration: 0:13:26
+[3] ERROR: [22003] START - Duration: 0:11:13
+[2] WARNING: [99672] START - Duration: 0:05:13
+[2] WARNING: [98746] START - Duration: 0:07:17
+[2] WARNING: [87570] START - Duration: 0:07:53
+[2] WARNING: [87228] START - Duration: 0:09:28
+[2] WARNING: [86716] START - Duration: 0:05:34
+[2] WARNING: [71766] START - Duration: 0:05:47
+[2] WARNING: [50295] START - Duration: 0:06:35
+[2] WARNING: [27222] START - Duration: 0:06:08
+[2] WARNING: [24482] START - Duration: 0:08:36
+[1] INFO: [96183] START - Duration: 0:04:14
+[1] INFO: [90962] START - Duration: 0:01:55
+[1] INFO: [90812] START - Duration: 0:04:06
+[1] INFO: [81470] START - Duration: 0:01:03
+[1] INFO: [75164] START - Duration: 0:01:04
+[1] INFO: [67833] START - Duration: 0:03:35
+[1] INFO: [64591] START - Duration: 0:01:50
+[1] INFO: [62922] START - Duration: 0:00:49
+[1] INFO: [60134] START - Duration: 0:00:44
+[1] INFO: [57672] START - Duration: 0:00:07
+[1] INFO: [55722] START - Duration: 0:00:47
+[1] INFO: [47139] START - Duration: 0:03:26
+[1] INFO: [38579] START - Duration: 0:03:33
+[1] INFO: [37980] START - Duration: 0:00:33
+[1] INFO: [36709] START - Duration: 0:00:50
+[1] INFO: [34189] START - Duration: 0:03:19
+[1] INFO: [33528] START - Duration: 0:03:22
+[1] INFO: [32904] START - Duration: 0:00:34
+[1] INFO: [32674] START - Duration: 0:01:26
+[1] INFO: [26831] START - Duration: 0:02:12
+[1] INFO: [24799] START - Duration: 0:00:07
+[1] INFO: [23118] START - Duration: 0:00:39
+[1] INFO: [16168] START - Duration: 0:00:16
+[1] INFO: [10515] START - Duration: 0:01:51
+=== End of Report ===
+=== Summary of Events ===
+Total events processed: 45
+Total unique PIDs: 45
+Warnings issued: 9
+Errors issued: 10
+Info messages: 24
+Total duration of all events: 4:18:19
+Average duration per event: 0:05:44.422222
+Max duration of an event: 0:33:43
+Min duration of an event: 0:00:07
